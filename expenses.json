@@ -1,0 +1,74 @@
+[
+    {
+        "expense_id": 1,
+        "title": "Groceries",
+        "category": "Food",
+        "amount": 1250.75,
+        "payment_method": "Upi",
+        "expense_date": "2026-06-02",
+        "notes": "Weekly vegetables and essentials"
+    },
+    {
+        "expense_id": 2,
+        "title": "Electricity Bill",
+        "category": "Utilities",
+        "amount": 2100.0,
+        "payment_method": "Card",
+        "expense_date": "2026-06-05",
+        "notes": "Monthly bill"
+    },
+    {
+        "expense_id": 3,
+        "title": "Cab Ride",
+        "category": "Travel",
+        "amount": 340.5,
+        "payment_method": "Upi",
+        "expense_date": "2026-06-08",
+        "notes": "Office commute"
+    },
+    {
+        "expense_id": 5,
+        "title": "Gym Membership",
+        "category": "Health",
+        "amount": 1500.0,
+        "payment_method": "Card",
+        "expense_date": "2026-06-15",
+        "notes": "Monthly subscription"
+    },
+    {
+        "expense_id": 6,
+        "title": "Mobile Recharge",
+        "category": "Utilities",
+        "amount": 599.0,
+        "payment_method": "Upi",
+        "expense_date": "2026-06-20",
+        "notes": "3-month plan"
+    },
+    {
+        "expense_id": 7,
+        "title": "Restaurant Dinner",
+        "category": "Food",
+        "amount": 1875.0,
+        "payment_method": "Card",
+        "expense_date": "2026-06-25",
+        "notes": "Friend's birthday celebration"
+    },
+    {
+        "expense_id": 8,
+        "title": "Dairy Products",
+        "category": "Everyday",
+        "amount": 500.0,
+        "payment_method": "Omline",
+        "expense_date": "2026-07-08",
+        "notes": "for Grocerry"
+    },
+    {
+        "expense_id": 9,
+        "title": "Smartphone",
+        "category": "Electronics",
+        "amount": 25000.0,
+        "payment_method": "Online",
+        "expense_date": "2026-07-08",
+        "notes": "Buy new phone"
+    }
+]
