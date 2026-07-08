@@ -31,8 +31,9 @@ cli-expense-tracker/
 ├── reports.py            # Statistics, breakdowns, dashboard, report export
 ├── utils.py              # Input prompts, formatting, table display, menu UI
 ├── expenses.json          # Local data store (auto-created on first run)
-├── logs/
-│   └── expense_tracker.log
+├── Output/
+│   ├── Output Screenshots  # images of working of project
+│   └── expense_report.txt
 ├── requirements.txt
 ├── .gitignore
 └── README.md
