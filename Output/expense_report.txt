@@ -1,0 +1,46 @@
+=======================================================
+CLI EXPENSE TRACKER REPORT
+=======================================================
+
+SUMMARY
+------------------------------
+Total Expenses: 8
+Total Spending: 33165.25
+Average Expense: 4145.66
+Highest Expense: 25000.0
+Highest Expense Title: Smartphone
+Lowest Expense: 340.5
+Lowest Expense Title: Cab Ride
+Top Category: Electronics
+
+CATEGORY SUMMARY
+------------------------------
+Electronics    ₹25000.00
+Food           ₹3125.75
+Utilities      ₹2699.00
+Health         ₹1500.00
+Everyday       ₹500.00
+Travel         ₹340.50
+
+PAYMENT SUMMARY
+------------------------------
+Online         ₹25000.00
+Card           ₹5475.00
+Upi            ₹2190.25
+Omline         ₹500.00
+
+MONTHLY SUMMARY
+------------------------------
+2026-06        ₹7665.25
+2026-07        ₹25500.00
+
+ALL EXPENSES
+------------------------------
+[1] Groceries | Food | ₹1250.75 | Upi | 2026-06-02
+[2] Electricity Bill | Utilities | ₹2100.00 | Card | 2026-06-05
+[3] Cab Ride | Travel | ₹340.50 | Upi | 2026-06-08
+[5] Gym Membership | Health | ₹1500.00 | Card | 2026-06-15
+[6] Mobile Recharge | Utilities | ₹599.00 | Upi | 2026-06-20
+[7] Restaurant Dinner | Food | ₹1875.00 | Card | 2026-06-25
+[8] Dairy Products | Everyday | ₹500.00 | Omline | 2026-07-08
+[9] Smartphone | Electronics | ₹25000.00 | Online | 2026-07-08
