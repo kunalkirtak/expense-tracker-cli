@@ -1,0 +1,50 @@
+# ----------------------------
+# CLI Expense Tracker .gitignore
+# ----------------------------
+
+# Application data (don't commit personal expense data)
+expenses.json
+expenses.corrupted_*.json
+*.corrupted_*.json
+
+# Logs
+logs/
+*.log
+
+# Exported reports
+expense_report*.txt
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
