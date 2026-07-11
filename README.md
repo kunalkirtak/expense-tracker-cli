@@ -53,7 +53,7 @@ cli-expense-tracker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/cli-expense-tracker.git
+git clone https://github.com/kunalkirtak/cli-expense-tracker.git
 cd cli-expense-tracker
 ```
 
